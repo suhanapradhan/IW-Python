@@ -1,0 +1,5 @@
+t=(1,2,3,4,5)
+l=list(t)
+l.remove(4)
+w=tuple(l)
+print(w)
